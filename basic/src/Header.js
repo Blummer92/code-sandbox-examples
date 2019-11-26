@@ -1,4 +1,4 @@
-import Jumbotron from "react-bootstrap/Jumbotron";
+import React, { Jumbotron } from "react-bootstrap/Jumbotron";
 import ButtonGroup from "react-bootstrap/ButtonGroup";
 import Button from "react-bootstrap/Button";
 

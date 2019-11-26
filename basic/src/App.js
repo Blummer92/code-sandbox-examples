@@ -7,6 +7,7 @@ import Header from "../src/Header";
 import HeaderNavigation from "../src/HeaderNavigation";
 import Form from "../src/Form";
 import Body from "../src/Body";
+import Main from "./src/pages/Main";
 
 const App = () => (
   <div>
@@ -19,6 +20,7 @@ const App = () => (
     <Body>
       <Form />
     </Body>
+    <Main />
   </div>
 );
 
